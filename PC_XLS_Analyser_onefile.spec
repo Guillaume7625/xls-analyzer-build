@@ -57,7 +57,6 @@ excludes = [
     "mypy", "mypy_extensions", "mypyc",
     "pytest", "_pytest", "py",
     "PyInstaller",
-    "pip", "wheel", "setuptools._distutils",
     "IPython", "jedi", "black",
 ]
 
