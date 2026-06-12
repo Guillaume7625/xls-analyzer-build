@@ -1,0 +1,8 @@
+{
+  "columns": {
+    "Taux_dispo_pct": { "type": "number", "min": 0, "max": 100 },
+    "Base":           { "required": true },
+    "Statut_meteo":   { "allowed": ["Favorable", "Défavorable"] },
+    "Officier_NIR":   { "regex": "^[0-9]{13}$", "severity": "HIGH" }
+  }
+}

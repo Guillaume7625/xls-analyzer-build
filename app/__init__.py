@@ -1,0 +1,1 @@
+"""xls-analyzer — package applicatif."""
