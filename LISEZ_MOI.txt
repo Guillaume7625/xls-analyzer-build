@@ -1,0 +1,10 @@
+28 CAPTURES AUTHENTIQUES DE GRIST — 16 novembre 2026
+
+Origine : documentation publique officielle Grist : https://github.com/gristlabs/grist-help
+
+Cette archive contient 28 fichiers PNG reels et non des liens, reconstitutions ou scripts. Repartition : 7 par dossier.
+Le connecteur GitHub a confirme pour chaque fichier une empreinte Git SHA-1 identique entre sa source et la copie.
+
+UNE SUBSTITUTION IDENTIFIEE : l'image initiale du numero 05, columns/two-way-ref-2.png (1,8 Mo), depasse la taille maximale de lecture du connecteur. A sa place : columns/columns-reference-list-editor.png, image officielle Grist, authentique et utile pour le meme chapitre. On dispose donc de 27 captures exactes de la selection initiale et d'une 28e capture officielle de remplacement.
+
+Le fichier SOURCES.csv contient les liens et empreintes de chaque image. Aucun changement sur la branche principale du depot de destination.
